@@ -11,6 +11,8 @@ public class suma {
 		System.out.println("Introduce el segundo numero: ");
 		int n2 = sc.nextInt();
 		System.out.println("La suma es: " + (n1+n2));
+		
+		System.out.println("Nueva línea.");
 
 	}
 
